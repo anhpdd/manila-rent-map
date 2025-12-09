@@ -18,7 +18,6 @@ Find furnished condo/apartment rentals under ₱20,000/month within commuting di
 ## 📂 Files
 
 - `Philippine_Rental_Scraper.ipynb` - Main scraper notebook (NEW)
-- `Coeds.ipynb` - Original Vietnamese property scraper (REFERENCE ONLY)
 - `data/` - Output directory for CSV files
 
 ## 🚀 Getting Started
@@ -239,8 +238,7 @@ From Ortigas Center to:
 
 For issues or questions:
 1. Check the notebook comments and documentation
-2. Review the original Vietnamese scraper (`Coeds.ipynb`) for reference
-3. Inspect Lamudi's current page structure using browser DevTools
+2. Inspect Lamudi's current page structure using browser DevTools
 
 ## 🔄 Comparison with Original Scraper
 
@@ -258,12 +256,6 @@ For issues or questions:
 This is a personal project for educational and personal use. Use responsibly.
 
 **Status**: Ready for CSS selector configuration and testing
-
-## 🤖 AI Assistance
-
-This project is developed with the assistance of the **Gemini CLI Agent**.
-- **Role**: Coding Assistant, Refactoring, Debugging, Documentation
-- **Usage**: The agent helps with writing scripts, configuring environments, and analyzing data.
 
 ---
 
