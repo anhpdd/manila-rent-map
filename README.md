@@ -240,17 +240,6 @@ For issues or questions:
 1. Check the notebook comments and documentation
 2. Inspect Lamudi's current page structure using browser DevTools
 
-## 🔄 Comparison with Original Scraper
-
-| Feature | Vietnamese Scraper | Philippine Scraper |
-|---------|-------------------|-------------------|
-| Website | batdongsan.com.vn | lamudi.com.ph |
-| Focus | Land & warehouses | Condos & apartments |
-| Region | Binh Duong, HCMC | Metro Manila (Ortigas area) |
-| Budget Filter | Area range (m²) | Price limit (₱20,000) |
-| Furnishing | N/A | Furnished only |
-| Commute | N/A | Ortigas-centric |
-
 ## 📝 License
 
 This is a personal project for educational and personal use. Use responsibly.
